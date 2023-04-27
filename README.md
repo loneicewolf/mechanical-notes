@@ -9,7 +9,21 @@ my notes and progress on robot-mechanics-related projects (like, prosthetics, an
 
 ## Resources
 
+- https://wokwi.com/projects/
+
+### motors
+- mg995
+
+
+
 ### Leap Motion
 - https://github.com/leapmotion/leapuvc
 
-- https://wokwi.com/projects/
+
+
+
+
+
+
+
+
