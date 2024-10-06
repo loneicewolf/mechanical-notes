@@ -1,3 +1,5 @@
+I said don't read this! jokes aside xD
+
 # mechanical-notes
 prosthetics, neuroprosthetics, arduino, leap motion, mechanics, etc.
 
